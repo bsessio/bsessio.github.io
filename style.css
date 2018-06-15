@@ -10,4 +10,11 @@ body  {
     }
 .main {
     width: 70%;
+    padding: 10px;
+    float: left;
     }
+.container::after {
+    content: "";
+    clear: both;
+    display: table;
+}
