@@ -12,8 +12,10 @@ body  {
     padding: 10px;
     float: left;
     }
-.container::after {
+.container {
     height: 100%;
+}
+.container::after {
     content: "";
     clear: both;
     display: table;
