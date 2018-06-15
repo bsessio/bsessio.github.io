@@ -6,4 +6,8 @@ body  {
     height: 100%;
     width: 30%;
     background: pink url(sidebar.jpg) center;
+    float: left;
+    }
+.main {
+    width: 70%;
     }
