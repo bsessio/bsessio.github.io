@@ -6,17 +6,14 @@ body  {
     height: 100%;
     width: 30%;
     background: pink url(sidebar.jpg) center;
-    float: left;
+    position: fixed;
     }
 .main {
+    margin-left: 30%;
     padding: 10px;
-    float: left;
+    width: 70%;
+    box-sizing: border-box;
     }
 .container {
     height: 100%;
-}
-.container::after {
-    content: "";
-    clear: both;
-    display: table;
 }
