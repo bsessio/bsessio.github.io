@@ -1,3 +1,5 @@
-p {
-  color: red;
+.sidebar {
+    width: 30%;
+    background: pink url(sidebar.jpg);
+    border: 1px solid black; 
 }
