@@ -25,16 +25,19 @@ body {
 .container {
     height: 100%;
     }
-p  {
+p {
     font-family: Verdana;
     font-size: 11px;
     color: #FFE8F7;
     line-height: 1.5;
     letter-spacing: .25px;
+    }
+.description  {
     width: 75%;
     position: absolute;
     bottom: 0;
     text-align: center;
+    margin: 5px auto;
     }
 h1,h2,h3,h4,h5 {
     margin-bottom: 0; 
@@ -48,6 +51,7 @@ address {
     letter-spacing: 1.4px;
     border-bottom: solid 1px #006600;
     text-transform: uppercase;
+    font-style: normal;
     }
 h1 {
     font-family: Georgia, serif;
