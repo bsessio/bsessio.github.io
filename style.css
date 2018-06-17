@@ -59,7 +59,7 @@ address {
     text-transform: uppercase;
     font-style: normal;
     background-color: #161032;
-    word-break: break all;
+    word-wrap: break-word;
     text-align: center;
     }
 h1 {
