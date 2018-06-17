@@ -46,16 +46,17 @@ p {
 h1,h2,h3,h4,h5 {
     margin: 0; 
     padding: 0;
+    text-align: center;
+    font-family: Georgia, serif;
+    font-weight: bold;
+    color: #6C4691;
+    letter-spacing: 1.2px;
     }
 .duties {
     margin-bottom: 11px;
 }
 address {
-    text-align: center;
-    font-family: Georgia, serif;
     font-size: 19px;
-    font-weight: bold;
-    color: #FFE8F7;
     letter-spacing: 1.4px;
     border-bottom: solid 1px #006600;
     text-transform: uppercase;
@@ -64,41 +65,22 @@ address {
     word-break: break all;
     }
 h1 {
-    font-family: Georgia, serif;
     font-size: 19px;
-    font-weight: bold;
-    color: #654588;
     letter-spacing: 1.4px;
     border-bottom: solid 1px #006600;
     text-transform: uppercase;
     }
 h2 {
-    font-family: Georgia, serif;
     font-size: 17px;
-    font-weight: normal;
-    letter-spacing: 1.2px;
-    color: #654588;
 }
 h3 {
-    font-family: Georgia, serif;
     font-size: 15px;
-    font-weight: normal;
-    letter-spacing: 1.2px;
-    color: #654588;
-}
+    }
 h4 {
-    font-family: Georgia, serif;
     font-size: 13px;
-    font-weight: normal;
-    letter-spacing: 1.2px;
-    color: #654588;
 }
 h5 {
-    font-family: Georgia, serif;
     font-size: 11px;
-    font-weight: normal;
-    letter-spacing: 1.2px;
-    color: #654588;
 }
 ul {
     width: 75%;
