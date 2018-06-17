@@ -52,10 +52,6 @@ h1,h2,h3,h4,h5 {
     color: #6C4691;
     letter-spacing: 1.2px;
     }
-.duties {
-    margin-bottom: 11px;
-    text-align: left;
-}
 address {
     font-size: 19px;
     letter-spacing: 1.4px;
@@ -87,3 +83,7 @@ h5 {
 ul {
     width: 75%;
     }
+.duties {
+    margin-bottom: 11px;
+    text-align: left;
+}
