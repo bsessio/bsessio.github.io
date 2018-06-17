@@ -47,6 +47,9 @@ h1,h2,h3,h4,h5 {
     margin: 0; 
     padding: 0;
     }
+.duties {
+    margin-bottom: 11px;
+}
 address {
     text-align: center;
     font-family: Georgia, serif;
@@ -58,6 +61,7 @@ address {
     text-transform: uppercase;
     font-style: normal;
     background-color: #161032;
+    word-break: break all;
     }
 h1 {
     font-family: Georgia, serif;
