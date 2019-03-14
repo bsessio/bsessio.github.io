@@ -6,8 +6,9 @@ body {
 
 body {
   color: #777;
-  font-family: Georgia, Times, "Times New Roman", serif;
-  background-image: url(../images/circuit.png);
+  font-family: Arial, "Helvetica neue", Helvetica, sans-serif;
+  background-color: #4b4b4b;
+  /* background-image: url(../images/circuit.png); */
 }
 
 .clearfix {
@@ -19,7 +20,6 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: Arial, "Helvetica neue", Helvetica, sans-serif;
   color: #aa4a4a;
   padding: 0;
   margin: 0;
@@ -80,7 +80,6 @@ main {
 
 .portfolio img {
   width: 100%;
-  border: 1px solid #666;
 }
 
 footer {
